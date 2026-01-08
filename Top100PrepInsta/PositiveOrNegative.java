@@ -28,7 +28,7 @@ public class PositiveOrNegative {
         if (no> 0) {
             System.out.println ("The number is positive");
 
-        }else if(no < 01){
+        }else if(no < 0){
             System.out.println ("The number is negative");
 
         }else{
@@ -38,4 +38,5 @@ public class PositiveOrNegative {
     }
     
     
+
 }
